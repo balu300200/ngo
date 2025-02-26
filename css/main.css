@@ -2604,6 +2604,10 @@ html {
 @media (max-width: 767px) {
   .hero__content {
     padding-left: 0;
+    text-align: center;
+  }
+  .hero__title--small{
+    justify-content: center;
   }
 }
 
